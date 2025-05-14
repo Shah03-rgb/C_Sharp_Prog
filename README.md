@@ -1,4 +1,4 @@
-# C--Prog
+# C# Programming
 This GitHub repository contains the basic C# projects I've made during my College Career.
 
 The file named "lQuiz_app_C#.zip" is a basic Quiz App I made in C#.
